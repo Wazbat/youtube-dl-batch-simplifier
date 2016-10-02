@@ -30,10 +30,7 @@ if errorlevel 4 goto update
 if errorlevel 3 goto help
 if errorlevel 2 goto downloadaud
 if errorlevel 1 goto downloadvid
-set /p menuopt=Tpe your selection and press enter: 
 
-
-echo Please enter a valid number or just dont screw up typing it in it's not that hard ffs
 echo No idea how you even got here
 pause
 goto start

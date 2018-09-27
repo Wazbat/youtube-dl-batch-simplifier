@@ -11,7 +11,6 @@ exit
 :start
 cls
 echo _____________________________________
-echo Descargador de Youtube de Warren
 echo Esto no es nada nuevo, simplemente quiero hacer mas facil utilizar el programa youtube-dl
 echo Version Youtube-dl:
 youtube-dl --version
